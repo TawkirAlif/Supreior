@@ -1,0 +1,68 @@
+.elementor-2659 .elementor-element.elementor-element-beb3d42 > .elementor-container {
+	max-width: 630px;
+	min-height: 180px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-beb3d42 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {
+	align-content: center;
+	align-items: center;
+}
+
+.elementor-2659 .elementor-element.elementor-element-beb3d42:not(.elementor-motion-effects-element-type-background), .elementor-2659 .elementor-element.elementor-element-beb3d42 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: #FCFAF8;
+}
+
+.elementor-2659 .elementor-element.elementor-element-beb3d42 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+	padding: 5px 0px 5px 0px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-beb3d42 > .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2659 .elementor-element.elementor-element-3d6cf74 > .elementor-element-populated {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826.elementor-position-right .elementor-image-box-img {
+	margin-left: 10px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826.elementor-position-left .elementor-image-box-img {
+	margin-right: 10px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826.elementor-position-top .elementor-image-box-img {
+	margin-bottom: 10px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826 .elementor-image-box-wrapper .elementor-image-box-img {
+	width: 40%;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826 .elementor-image-box-img img {
+	transition-duration: 0.3s;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826 .elementor-image-box-title {
+	margin-bottom: 5px;
+}
+
+.elementor-2659 .elementor-element.elementor-element-530a826 .elementor-image-box-content .elementor-image-box-description {
+	font-size: 16px;
+}
+
+@media (max-width: 767px) {
+	.elementor-2659 .elementor-element.elementor-element-530a826 .elementor-image-box-img {
+		margin-bottom: 10px;
+	}
+}
+/* Start custom CSS for section, class: .elementor-element-beb3d42 */
+
+.pre-footer
+{
+	margin-top: 0rem;
+}
+/* End custom CSS */

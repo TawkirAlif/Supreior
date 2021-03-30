@@ -1,0 +1,44 @@
+.elementor-2092 .elementor-element.elementor-element-b32b327 {
+	text-align: center;
+}
+
+.elementor-2092 .elementor-element.elementor-element-b32b327 .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Arial", Sans-serif;
+	font-size: 21px;
+}
+
+.elementor-2092 .elementor-element.elementor-element-b32b327 > .elementor-widget-container {
+	padding: 16px 0px 15px 0px;
+	background-color: #2176AA;
+}
+
+.elementor-2092 .elementor-element.elementor-element-a063cc3 > .elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+	padding: 34px 34px 34px 34px;
+	background-color: #F4F7F9;
+}
+
+#elementor-popup-modal-2092 .dialog-message {
+	width: 400px;
+	height: auto;
+}
+
+#elementor-popup-modal-2092 {
+	justify-content: center;
+	align-items: center;
+	pointer-events: all;
+	background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-2092 .dialog-close-button {
+	display: block;
+}
+
+#elementor-popup-modal-2092 .dialog-widget-content {
+	box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-2092 .dialog-close-button i {
+	color: #FFFFFF;
+}
